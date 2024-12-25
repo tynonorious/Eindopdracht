@@ -28,3 +28,7 @@ dist-ssr
 !README.md
 .json
 /.idea
+eslint.config.js
+vite.config.js
+package-lock.json
+package.json
